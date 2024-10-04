@@ -15,5 +15,6 @@ int main()
     printf("Final value of a is %d\n", a);
 
     while (true);
+
 }
 
